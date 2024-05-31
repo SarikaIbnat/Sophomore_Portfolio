@@ -5,5 +5,5 @@ body{
 .banner{
   background-color: #e1dcd2;
   text-align: center;
-  border: 5px outset brown;
+  border: 5px solid brown;
 }
