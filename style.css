@@ -4,3 +4,7 @@
   font-family: 'Poppins', sans-serif;
   box-sizing: border-box;
 }
+body{
+  background-image: url("aesthetic.png");
+  color: #800000;
+}
