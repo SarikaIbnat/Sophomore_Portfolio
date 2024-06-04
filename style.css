@@ -8,3 +8,10 @@ body{
   background-image: url("aesthetic.png");
   color: #800000;
 }
+#header{
+  width: 100%;
+  height: 100vh;
+  background-image: url("me-removebg-preview.png");
+  background-size: cover;
+  background-position: center;
+}
