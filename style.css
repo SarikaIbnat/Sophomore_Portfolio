@@ -15,4 +15,6 @@ body{
   height: 70px;
   position: relative;
   display: block;
+  resize: both;
+  overflow: auto;
 }
