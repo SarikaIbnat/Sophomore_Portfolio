@@ -1,18 +1,6 @@
-body{
-  background-image: url('aesthetic.png');\
- background-repeat: no-repeat;
-}
-.banner{
-  background-color: #e1dcd2;
-  text-align: center;
-  border: 5px solid brown;
-}
-.me{
-  background-color: #d0ba98;
-  border: 5px solid brown;
- float: left;
-  width: 50%;
-  height: 550px;
-  display: block;
-
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
 }
