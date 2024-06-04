@@ -11,4 +11,8 @@ body{
   background-color: #d0ba98;
   border: 5px solid brown;
  float: left;
+  width: 70px;
+  height: 70px;
+  position: relative;
+  display: block;
 }
